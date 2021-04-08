@@ -1,0 +1,13 @@
+Respuestas: 
+
+1.Git fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+ En un principio, se usaba BitKeeper como un sistema de código abierto para el manejo y control de versiones,
+ pero luego de un cambio de la licencia, Lunix decidió impolementar su propio sistema de control de versiones, 
+ya que ninguno le convencía.
+
+2.Github actualmente le pertenece a Microsoft luego de que éste lo
+ comprara el 4 de junio de 2018 por la suma de US$7500 millones, 
+luego de ser victima por un ataque de denegación de servicio (DoS).
+
+3.Si hay otras formas de trabajar con Github, entre ellas existe Github 
+Desktop u otros programas como Git Ahead o Git Kraken
